@@ -52,10 +52,8 @@ public class AddEmployeeServlet extends HttpServlet {
             }
         } catch (SQLException e) {
             e.printStackTrace();
-            // Handle the exception appropriately, e.g., show an error message to the user
         }
 
-        // Redirect to the view employees page after insertion
         response.sendRedirect("/view");
     }
 }

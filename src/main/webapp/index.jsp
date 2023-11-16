@@ -12,10 +12,10 @@
 <div class="row mt-4">
     <div class="col-md-3">
         <ul class="list-group">
-            <li class="list-group-item"><a href="addEmployee" class="btn btn-primary">Add Employee</a></li>
-            <li class="list-group-item"><a href="viewEmployees" class="btn btn-info">View Employees</a></li>
-            <li class="list-group-item"><a href="editEmployee" class="btn btn-warning">Edit Employee</a></li>
-            <li class="list-group-item"><a href="deleteEmployee" class="btn btn-danger">Delete Employee</a></li>
+            <li class="list-group-item"><a href="add" class="btn btn-primary">Add Employee</a></li>
+            <li class="list-group-item"><a href="view" class="btn btn-info">View Employees</a></li>
+            <li class="list-group-item"><a href="edit" class="btn btn-warning">Edit Employee</a></li>
+            <li class="list-group-item"><a href="delete" class="btn btn-danger">Delete Employee</a></li>
         </ul>
     </div>
 </div>
